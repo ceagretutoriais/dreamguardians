@@ -1,0 +1,16 @@
+names:
+- matrinxa
+- piranha
+- pirarucu
+- poraque
+- tambaqui
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: amazonian-fish
+  url: https://universe.roboflow.com/jucicarla-pires/amazonian-fish/dataset/6
+  version: 6
+  workspace: jucicarla-pires
+test: ../test/images
+train: amazonian-fish-6/train/images
+val: amazonian-fish-6/valid/images
